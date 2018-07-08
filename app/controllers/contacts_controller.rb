@@ -15,7 +15,7 @@ class ContactsController < ApplicationController
 <<<<<<< HEAD
 
 =======
-      
+
 >>>>>>> contact_form
       flash[:success] = "Message sent."
       redirect_to new_contact_path
